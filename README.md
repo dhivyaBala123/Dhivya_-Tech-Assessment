@@ -1,6 +1,6 @@
 # Dhivya_-Tech-Assessment
 Test cases for sample computer application
-Hi , I attached the test cases in the Excel sheet named QA_ Technical_Assessment_DhivyaBalasubramanian.Please find short description on Test approach
+Hi , I have attached the test cases in the Excel sheet named QA_ Technical_Assessment_DhivyaBalasubramanian.Please find short description on the Test approach below:
 
 Test approach:
 The Test approach used in the technical assessment is Black box test approach. Test cases have been   designed with functional specs of the software without prior knowledge of the BRS or logic.Exploratory and error guessing testing have been used extensively in the testing activity.
